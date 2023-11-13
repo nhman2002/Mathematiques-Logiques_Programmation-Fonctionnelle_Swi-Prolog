@@ -6,17 +6,17 @@
 ## Overview
 
 
-0. IntroURL
-1. IntroPrologURL
-2. DebutPrologURL
-3. DebutPrologURL
-4. UnificationURL
-5. RecursiviteURL
-6. ListeURL
-7. ArithmetiqueURL
-8. GrammaireNonContextuelleURL
-9. TermesURL
-9. EntreeSortieURL
-10. IAURL
-11. RévisionURL
+0. Intro
+1. IntroProlog
+2. DebutProlog
+3. DebutProlog
+4. Unification
+5. Recursivite
+6. Liste
+7. Arithmetique
+8. GrammaireNonContextuelle
+9. Termes
+9. EntreeSortie
+10. IA
+11. Révision
 
